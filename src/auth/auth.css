@@ -1,0 +1,30 @@
+.card{
+    border: none;
+}
+.label{
+    float: left;
+}
+.btn-primary{
+    width: 100%;
+    border-radius: 10px;
+}
+.btn-warning{
+    width: 100%;
+    border-radius: 10px;
+}
+.reset{
+    float: left;
+}
+.forgot{
+    text-align: end;
+    font-weight: 600;
+}
+.form-control{
+    border-radius: 10px;
+}
+.signup{
+    font-weight: 600;
+}
+.container{
+    overflow-y: scroll;
+}
